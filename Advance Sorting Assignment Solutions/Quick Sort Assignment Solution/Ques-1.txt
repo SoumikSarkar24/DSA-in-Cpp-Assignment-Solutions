@@ -1,0 +1,6 @@
+Q.1)Which of the following sorting algorithms is used along quicksort to sort the sub arrays?
+a) Merge Sort 
+b) Selection Sort 
+c) Insertion Sort
+d) Bubble Sort
+Answer : Insertion sort is used along with quick sort to sort the sub arrays.In Quick sort there is a pivot which separates the array into two subarrays and in Insertion sort , the left subarray is sorted and we insert elements at correct positions from the right subarray.
