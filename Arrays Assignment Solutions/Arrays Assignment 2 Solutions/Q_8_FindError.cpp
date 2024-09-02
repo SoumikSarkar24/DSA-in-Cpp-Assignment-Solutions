@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+double getAverage(int arr[], int size);
+int main () {
+int balance[5] = {1000, 2, 3, 17, 50};
+double avg;
+avg = getAverage( balance[0], 5 ) ;//Here an array is to be passed but we are only passing an element
+cout << "Average value is: " << avg << endl;
+return 0;
+}
+int main(){
+    int arr[] = {9,8,7,4,7};
+    getAverage(arr,5);
+}
