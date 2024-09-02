@@ -1,0 +1,5 @@
+Ans 4: fun(0) will return 1 as 0<=1
+fun(1) will also return 1
+fun(2) will return fun(2/2)=fun(1)=1 as (2%2=0)
+fun(3) will return fun(3/2)+fun(3/2 + 1) = fun(1) + fun(2) = 1 + 1 = 2
+fun(4) will return fun(4/2) = fun(2) = 1 as (4%2=0)
