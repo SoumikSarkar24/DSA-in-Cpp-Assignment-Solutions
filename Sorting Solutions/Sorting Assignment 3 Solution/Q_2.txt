@@ -1,0 +1,1 @@
+Ans 2)c) Large values need to be sorted with small keys
