@@ -1,0 +1,1 @@
+Answer 3)Option 2-> Prints binary representation of n.
