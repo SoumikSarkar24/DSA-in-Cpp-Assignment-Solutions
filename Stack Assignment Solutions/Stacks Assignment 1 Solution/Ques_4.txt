@@ -1,3 +1,0 @@
-Answer 4) Option 1 -> Stack data structure can be implemented using linked list
-	  Option 2 -> New node can only be added at the top of the stack
-	  Option 1 and 2 both are correct.
